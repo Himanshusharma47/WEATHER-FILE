@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Life",
+            "title": "The 100+ best deals at Amazon this weekend \u2014 save up to 80% on Apple, iRobot and more - Yahoo Life",
+            "description": null,
+            "url": "https:\/\/www.yahoo.com\/lifestyle\/amazon-sale-apple-10-22-131425563.html",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T13:14:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Daniella Genovese",
+            "title": "Buying a house in 2023? Here\u2019s how much is needed to afford the typical US home - Fox Business",
+            "description": "Potential homebuyers need to earn over $114,000 to afford the typical U.S. home. That's $40,000 more than what typical U.S. households currently earn.",
+            "url": "https:\/\/www.foxbusiness.com\/lifestyle\/buying-house-2023-heres-how-much-needed-afford-typical-us-home",
+            "urlToImage": "https:\/\/a57.foxnews.com\/static.foxbusiness.com\/foxbusiness.com\/content\/uploads\/2023\/08\/0\/0\/REDFIN-FOR-SALE-REAL-ESTATE-GETTY.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-22T13:08:20Z",
+            "content": "With high borrowing costs and steep home prices, potential buyers need to make at least $114,627 to afford a median-priced home in the U.S. That's a new record.\u00a0\r\nIt marks the highest annual income h\u2026 [+2100 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox Business",
+            "title": "Costco shopper says he cracked secret to wholesaler's price tags and mysterious asterisk - New York Post ",
+            "description": "A Costco shopper has taken to TikTok to reveal the meanings behind the prices of Costco items.",
+            "url": "https:\/\/nypost.com\/2023\/10\/22\/costco-shopper-says-he-cracked-secret-to-wholesalers-price-tags\/",
+            "urlToImage": "https:\/\/nypost.com\/wp-content\/uploads\/sites\/2\/2023\/10\/newspress-collage-1lwkh4x0d-1697977948853.jpg?quality=75&strip=all&1697963610&w=1024",
+            "publishedAt": "2023-10-22T12:55:00Z",
+            "content": "A Costco shopper has taken to TikTok to reveal the meanings behind the prices of Costco items.\r\nIn a video that has garnered 1.3 million views and counting, Ryan Quinlan, @butthatsmyopinion, translat\u2026 [+3153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "'We don't want our children to be waiters \u2014 waiting for us to die': Man who won $22 million lottery says he hasn't told his kids. Dave Ramsey loves it. Here's why - Yahoo Finance",
+            "description": null,
+            "url": "https:\/\/finance.yahoo.com\/news\/dont-want-children-waiters-waiting-121500350.html",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T12:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Daniel de Vis\u00e9",
+            "title": "How 1 in 4 couples is giving up \"free money\" in their 401 (k) plans - USA TODAY",
+            "description": "One in four married couples leaves valuable retirement funds on the table by failing to claim employer matches in their 401 (k) plans, a study finds.",
+            "url": "https:\/\/www.usatoday.com\/story\/money\/2023\/10\/22\/how-1-in-4-couples-is-giving-up-free-money-in-their-401-k-plans\/71225707007\/",
+            "urlToImage": "https:\/\/www.usatoday.com\/gcdn\/authoring\/authoring-images\/2023\/10\/18\/USAT\/71230319007-niv-persaud.jpg?crop=1499,843,x0,y420&width=1499&height=843&format=pjpg&auto=webp",
+            "publishedAt": "2023-10-22T12:01:45Z",
+            "content": "Imagine a young married couple. One partner invests heavily in his employers 401(k), saving for both spouses. The other focuses on paying the bills and contributes nothing to her retirement plan, mis\u2026 [+5745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Sherman",
+            "title": "Paramount's Shari Redstone is open for business, but business may not be open for her - CNBC",
+            "description": "Paramount Global controlling shareholder Shari Redstone is open to doing a transformative deal, but market conditions are making it very difficult.",
+            "url": "https:\/\/www.cnbc.com\/2023\/10\/22\/paramount-shari-redstone-might-have-missed-deal-window.html",
+            "urlToImage": "https:\/\/image.cnbcfm.com\/api\/v1\/image\/107270662-1689187794205-_95A1370-143r.jpg?v=1697976001&w=1920&h=1080",
+            "publishedAt": "2023-10-22T12:00:01Z",
+            "content": "Shari Redstone, president of National Amusements and controlling shareholder of Paramount Global, walks to a morning session at the Allen &amp; Company Sun Valley Conference in Sun Valley, Idaho, Jul\u2026 [+10076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Shawn Baldwin",
+            "title": "How Walmart became America\u2019s largest grocer - CNBC",
+            "description": "The U.S. had more than 63,000 grocery stores and supermarkets in 2023, employing nearly three million people.",
+            "url": "https:\/\/www.cnbc.com\/2023\/10\/22\/how-walmart-became-americas-largest-grocer.html",
+            "urlToImage": "https:\/\/image.cnbcfm.com\/api\/v1\/image\/106681306-1598560224364-GettyImages-1268140197r.jpg?v=1697976001&w=1920&h=1080",
+            "publishedAt": "2023-10-22T12:00:01Z",
+            "content": "Sky-high grocery bills are inflicting pain at the supermarket checkout counter. In an effort to stretch their dollars, a growing number of Americans are turning to Walmart.\r\nThe Arkansas-based retail\u2026 [+1259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "GM and Ford will answer to Wall Street and the UAW with third-quarter earnings this week - CNBC",
+            "description": "GM and Ford report third-quarter earnings and future guidance this week amid ongoing strikes and contract negotiations with the United Auto Workers union.",
+            "url": "https:\/\/www.cnbc.com\/2023\/10\/22\/gm-and-ford-report-q3-earnings-as-wall-street-and-uaw-watch.html",
+            "urlToImage": "https:\/\/image.cnbcfm.com\/api\/v1\/image\/107053947-1651264400451-farley_barra.jpg?v=1697972401&w=1920&h=1080",
+            "publishedAt": "2023-10-22T11:00:01Z",
+            "content": "Jim Farley, CEO, Ford, left, and Mary Barra, CEO, General Motors\r\nDETROIT Ready for a tightrope walk?\r\nGeneral Motors and Ford Motor report third-quarter earnings and future guidance this week amid o\u2026 [+5851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Keith Speights",
+            "title": "Why Claiming Social Security at Age 62 Will Be a More Attractive Option in 2024 Than It's Been in the Past - The Motley Fool",
+            "description": "Early retirees could be helped at least a little by a Social Security change going into effect next year.",
+            "url": "https:\/\/www.fool.com\/retirement\/2023\/10\/22\/why-claiming-social-security-at-age-62-will-be-a-m\/",
+            "urlToImage": "https:\/\/g.foolcdn.com\/editorial\/images\/750994\/happy-older-couple-retirement-wealth-invest.jpg",
+            "publishedAt": "2023-10-22T11:00:00Z",
+            "content": "Thinking about receiving Social Security retirement benefits at age 62? You're not alone. Nearly one in three Americans did so in 2021, according to the latest data analyzed by the Congressional Rese\u2026 [+3281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Bitcoin is on the rise again. Here's why Warren Buffett remains a crypto hater - CNBC",
+            "description": "The Oracle of Omaha famously believes cryptocurrencies are highly speculative, non-productive assets.",
+            "url": "https:\/\/www.cnbc.com\/2023\/10\/22\/bitcoin-is-rising-again-why-warren-buffett-remains-a-crypto-hater.html",
+            "urlToImage": "https:\/\/image.cnbcfm.com\/api\/v1\/image\/104006654-IMG_9000rzzr.jpg?v=1697971856&w=1920&h=1080",
+            "publishedAt": "2023-10-22T10:50:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Trevor Jennewine",
+            "title": "3 Huge Social Security Changes Coming in 2024 That May Surprise You - The Motley Fool",
+            "description": "The Social Security program will undergo several important revisions next year, but recent surveys suggest those changes will surprise many Americans.",
+            "url": "https:\/\/www.fool.com\/retirement\/2023\/10\/22\/3-huge-social-security-changes-coming-in-2024\/",
+            "urlToImage": "https:\/\/g.foolcdn.com\/editorial\/images\/751085\/social-security-8.jpg",
+            "publishedAt": "2023-10-22T10:07:00Z",
+            "content": "Social Security is a vital source of income for millions of Americans, and millions more will come to depend on benefits in the future. The program plays a particularly pivotal role in keeping retire\u2026 [+4508 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Edward White, Kathrin Hille",
+            "title": "China launches investigation into iPhone maker Foxconn, says state media - Financial Times",
+            "description": "Tax authorities said to have inspected a number of the Apple supplier\u2019s sites in provinces",
+            "url": "https:\/\/www.ft.com\/content\/e6abcb86-1c80-4914-ae54-c7df94d7a9e0",
+            "urlToImage": null,
+            "publishedAt": "2023-10-22T09:17:07Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Stephanie Giang-Paunon",
+            "title": "Daryl Hannah, Jackson Browne's former California home on sale for $16.8M - Fox Business",
+            "description": "The former Santa Monica home of Rock & Roll Hall of Fame musician Jackson Browne and his one-time movie star girlfriend, Daryl Hannah, has hit the market for $16,850,000.",
+            "url": "https:\/\/www.foxbusiness.com\/entertainment\/daryl-hannah-jackson-brownes-california-home-sale-16-8m",
+            "urlToImage": "https:\/\/a57.foxnews.com\/static.foxbusiness.com\/foxbusiness.com\/content\/uploads\/2023\/10\/0\/0\/celeb-real-estate.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-22T09:13:22Z",
+            "content": "Actress Daryl Hannah's former California home with her one-time boyfriend, Rock &amp; Roll Hall of Famer Jackson Browne, is listed on the market for nearly $17 million.\r\nLocated at 226 Palisades Ave.\u2026 [+2926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FRANCE 24 English"
+            },
+            "author": "S\u00e9bastian SEIBT",
+            "title": "Is cryptocurrency helping Hamas fund terrorism? - FRANCE 24 English",
+            "description": "The US and Israel have stepped up their efforts to limit cryptocurrency transfers to Hamas since the group\u2019s brutal October 7 attacks on Israel. Bitcoin, Dogecoin and Ethereum are increasingly blamed as conduits of funding for Islamist groups, but to what ext\u2026",
+            "url": "https:\/\/www.france24.com\/en\/middle-east\/20231022-is-cryptocurrency-helping-hamas-fund-terrorism",
+            "urlToImage": "https:\/\/s.france24.com\/media\/display\/5e57fe3c-6f5f-11ee-8e68-005056bfb2b6\/w:1280\/p:16x9\/201023-hamas-2-m.jpg",
+            "publishedAt": "2023-10-22T06:31:43Z",
+            "content": "The US and Israel have stepped up their efforts to limit cryptocurrency transfers to Hamas since the groups brutal October 7 attacks on Israel. Bitcoin, Dogecoin and Ethereum are increasingly blamed \u2026 [+6417 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Jeff Bezos' Old Amazon Review Of Milk Goes Viral, Elon Musk Reacts - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https:\/\/www.ndtv.com",
+            "urlToImage": "https:\/\/cdn.ndtv.com\/common\/images\/ogndtv.png",
+            "publishedAt": "2023-10-22T05:56:13Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Tangalakis-Lippert",
+            "title": "Musk says Tesla's Cybertruck is bulletproof. Critics aren't so sure. - Business Insider",
+            "description": "A video shows a Cybertruck covered in what appear to be marks left by bullets. Elon Musk said the damage was caused by shooting it \"Al Capone style.\"",
+            "url": "https:\/\/www.businessinsider.com\/tesla-cybertruck-bulletproof-elon-musk-tommy-gun-test-al-capone-2023-10",
+            "urlToImage": "https:\/\/i.insider.com\/6534779abe9edfa8eda6e95c?width=1200&format=jpeg",
+            "publishedAt": "2023-10-22T03:35:00Z",
+            "content": "Tesla's long-awaited Cybertruck is bulletproof if you take Elon Musk's word for it.\r\nIn a video clip posted Friday by the official auto club Tesla Owners of Silicon Valley on X, formerly Twitter, a p\u2026 [+1982 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Natalie Duddridge",
+            "title": "Mudslide in Westchester County disrupts Metro-North Hudson Line and Amtrak service - CBS New York",
+            "description": "A mudslide on the tracks in Westchester County is disrupting service on Metro-North's Hudson Line and Amtrak.",
+            "url": "https:\/\/www.cbsnews.com\/newyork\/news\/mudslide-disrupts-metro-north-hudson-line-amtrak-service-westchester-county\/",
+            "urlToImage": "https:\/\/assets2.cbsnewsstatic.com\/hub\/i\/r\/2023\/10\/21\/188cf40b-9c55-496b-a41d-f0b53504802a\/thumbnail\/1200x630\/f3b3c0355044b74b01fdb0787b009076\/duddridge-7p-pkg-metro-wcbs88eb-hi-res-still-00-00-3126.jpg?v=18a5d3569ab1a3ca759fe14d213f7845",
+            "publishedAt": "2023-10-22T03:27:00Z",
+            "content": "NEW YORK -- Saturday's rain caused a mudslide to spill onto train tracks in\u00a0Westchester County, and it's causing disruptions to Metro-North and\u00a0Amtrak.\r\nService disruptions forced some riders to call\u2026 [+2730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Brie Stimson",
+            "title": "2 more San Francisco mail carriers assaulted as federal officials triple reward for soaring number of attacks - Fox Business",
+            "description": "Two San Francisco U.S. Postal Service mail carriers last week were just the latest to be attacked by thieves hoping to get away with mail and mailbox keys, as federal officials triple the reward for information to $150,000.",
+            "url": "https:\/\/www.foxbusiness.com\/fox-news-us\/two-more-san-francisco-mail-carriers-assaulted-federal-officials-triple-reward-soaring-number-attacks",
+            "urlToImage": "https:\/\/a57.foxnews.com\/static.foxbusiness.com\/foxbusiness.com\/content\/uploads\/2023\/10\/0\/0\/postal-worker.jpg?ve=1&tl=1",
+            "publishedAt": "2023-10-22T02:51:16Z",
+            "content": "Two U.S. Postal Service employees in San Francisco were attacked by robbers last week as federal investigators have tripled the reward leading to arrests related to the increasing number of mail carr\u2026 [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Brayden Lindrea",
+            "title": "Crypto advocates file amicus brief to address users' Fourth Amendment privacy rights - Cointelegraph",
+            "description": "Crypto advocacy group DeFi Education Fund has filed an amicus brief to a U.S. court, requesting it rethink how the Fourth Amendment is applied to protect crypto user\u2019s privacy rights.",
+            "url": "https:\/\/cointelegraph.com\/news\/crypto-advocates-file-amicus-brief-addressing-crypto-privacy-rights-under-fourth-amendment",
+            "urlToImage": "https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2023-10\/72b78c32-0f96-4272-8200-20b3f297ea96.jpg",
+            "publishedAt": "2023-10-22T02:18:26Z",
+            "content": "Cryptocurrency advocacy group the DeFi Education Fund (DEF) has urged a United States court to consider the unique aspects of blockchain technology when evaluating the privacy rights of cryptocurrenc\u2026 [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Urja Sinha",
+            "title": "FDA proposes ban on hair relaxers; some stylists say it doesn\u2019t matter - NewsNation Now",
+            "description": "These products have been used by Black women for years, but some stylists say the ones being looked at by the FDA have fallen out of fashion.",
+            "url": "https:\/\/www.newsnationnow.com\/health\/fda-ban-hair-relaxers-stylists-say-it-doesnt-matter\/",
+            "urlToImage": "https:\/\/www.newsnationnow.com\/wp-content\/uploads\/sites\/108\/2022\/10\/snapshot-2022-10-24T182019.020.jpg?w=1280",
+            "publishedAt": "2023-10-22T00:59:13Z",
+            "content": "(NewsNation) The U.S. Food and Drug Administration is considering banning the use of formaldehyde, a chemical found in hair relaxers, citing a link to cancer and other long-term health effects. \r\nPro\u2026 [+1859 chars]"
+        }
+    ]
+}

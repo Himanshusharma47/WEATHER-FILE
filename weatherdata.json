@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 76.4003,
+        "lat": 30.3267
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 26.77,
+        "feels_like": 26.44,
+        "temp_min": 26.77,
+        "temp_max": 26.77,
+        "pressure": 1004,
+        "humidity": 34,
+        "sea_level": 1004,
+        "grnd_level": 976
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.94,
+        "deg": 6,
+        "gust": 4.38
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1696168014,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1696121240,
+        "sunset": 1696164064
+    },
+    "timezone": 19800,
+    "id": 1260107,
+    "name": "Pati\u0101la",
+    "cod": 200
+}
